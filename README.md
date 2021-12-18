@@ -12,7 +12,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: Although 4rd year student but I still a newbie in coding, know C# and Java language. Now I'm focus on learning Web Development. This is a project **https://github.com/NgHuuTaiUIT/TIU_Shop_Project** I'm coding by ReactJS to test what I've learned. Currently I'm still coding.
 - :monocle_face: I'm interested in coding, reading commic, and watching film.
-- :sunglasses: My quote is ***"You have got to be in it to win it!*** 
+- :sunglasses: My quote is ***"If you never try, you will never know.!*** 
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
