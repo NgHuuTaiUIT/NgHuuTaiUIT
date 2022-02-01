@@ -10,7 +10,7 @@
 - :school: I'm currently 4rd year student at **University of Information Technology (UIT) - VNU HCMC** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_UIT_updated.jpg/800px-Logo_UIT_updated.jpg" width="20" align="center"/>
 - :books: My major is **Infomation System**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: Although 4rd year student but I still a newbie in coding, know C# and Java language. Now I'm focus on learning Web Development. This is a project **https://github.com/NgHuuTaiUIT/TIU_Shop_Project** I'm coding by ReactJS to test what I've learned. Currently I'm still coding.
+- :sweat_smile: Although 4rd year student but I still a newbie in coding. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, reading commic, and watching film.
 - :sunglasses: My quote is ***"If you never try, you will never know.!*** 
 
