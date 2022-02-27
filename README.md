@@ -44,7 +44,7 @@
   </a> &nbsp;&nbsp;
   
   
-  <a href="https://www.facebook.com/tai.nguyenhuu.37201//" target="_blank">
+  <a href="https://www.facebook.com/tai.nguyenhuu.37201/" target="_blank">
       <img align="center" alt="NgHuuTaiUIT | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
