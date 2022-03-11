@@ -44,10 +44,10 @@
 
 ## <img src="https://media1.giphy.com/media/Fv0o7aLSFTF0VTDvXw/200w.webp?cid=ecf05e47oodsypk5nncy0xeg1umfifgaykuc3ri6z9oorj3n&rid=200w.webp&ct=s" width="50px"> About Some Stats
 <div align="center">
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuuTaiUIT&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="NgHuuTaiUIT">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuuTaiUIT&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a> 
-  <a href="#" title="Trungquandev">
+  <a href="#" title="NgHuuTaiUIT">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NgHuuTaiUIT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
