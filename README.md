@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Huu+Tai;I'm+Front-end+Dev+!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50"></img> About Me
 
 - :credit_card: My full name is **Nguyễn Hữu Tài**
 - :school: I'm currently 4rd year student at **University of Information Technology (UIT) - VNU HCMC** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_UIT_updated.jpg/800px-Logo_UIT_updated.jpg" width="20" align="center"/>
@@ -23,7 +23,7 @@
 </div>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Some Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -42,7 +42,7 @@
 </p>
 
 
-## <img src="https://media1.giphy.com/media/Fv0o7aLSFTF0VTDvXw/200w.webp?cid=ecf05e47oodsypk5nncy0xeg1umfifgaykuc3ri6z9oorj3n&rid=200w.webp&ct=s" width="50px"> About Some Stats
+## <img src="https://media1.giphy.com/media/Fv0o7aLSFTF0VTDvXw/200w.webp?cid=ecf05e47oodsypk5nncy0xeg1umfifgaykuc3ri6z9oorj3n&rid=200w.webp&ct=s" width="50"> About Some Stats
 <div align="center">
   <a href="#" title="NgHuuTaiUIT">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuuTaiUIT&hide=Less,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -53,7 +53,7 @@
 </div>
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:vnhuutai274@gmail.com" >
     <img align="center" alt="NgHuuTaiUIT | Gmail" width="80px" src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
