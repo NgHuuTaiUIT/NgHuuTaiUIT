@@ -13,7 +13,6 @@
 - :credit_card: My full name is **Nguyễn Hữu Tài**
 - :books: My major is **Infomation System**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: Although 4rd year student but I still a newbie in coding. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, reading commic, and watching film.
 <div align="right">
 
