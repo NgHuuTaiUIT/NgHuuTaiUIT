@@ -11,7 +11,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50"></img> About Me
 
 - :credit_card: My full name is **Nguyễn Hữu Tài**
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_UIT_updated.jpg/800px-Logo_UIT_updated.jpg" width="20" align="center"/>
 - :books: My major is **Infomation System**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: Although 4rd year student but I still a newbie in coding. Now I'm focus on learning Web Development.
